@@ -72,7 +72,7 @@ Me chamo João Arthur Carvalho Oliveira, tenho 20 anos e nascir no estado de Sã
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCarvalhoTB&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
